@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/black"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/line_a"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/line_b"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="22dp" />
+
+    <TextView
+        android:id="@+id/line_c"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="44dp" />
+
+    <TextView
+        android:id="@+id/line_d"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+    <TextView
+        android:id="@+id/line_e"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="88dp" />
+
+    <TextView
+        android:id="@+id/line_f"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="110dp" />
+
+    <TextView
+        android:id="@+id/line_g"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="132dp" />
+
+    <TextView
+        android:id="@+id/line_h"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="154dp" />
+
+    <TextView
+        android:id="@+id/line_i"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="176dp" />
+
+    <TextView
+        android:id="@+id/line_j"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="198dp" />
+
+    <TextView
+        android:id="@+id/line_k"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="220dp" />
+
+    <TextView
+        android:id="@+id/line_l"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="242dp" />
+
+    <TextView
+        android:id="@+id/line_m"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="264dp" />
+
+    <TextView
+        android:id="@+id/line_n"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Textview"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
